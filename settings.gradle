@@ -1,0 +1,3 @@
+include ':modelsandenums'
+include ':app'
+rootProject.name = "CommonModelsAndEnums"
